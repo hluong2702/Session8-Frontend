@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: #50435F;
+    color: white;
+    width: 400px;
+    height: 400px;
+    margin-left: 20px;
+}
+
+.container .header{
+    position: relative;
+}
+
+.container .header1{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -38px;
+}
+
+.container .body{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container .footer input{
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    border: 1px solid #4D3E5C;
+    font-size: 8px;
+    border-radius: 10px;
+}
+.container form{
+    margin-left: 10px;
+}
+
+.container .input{
+    background-color: #50435F;
+    border: 1px solid grey;
+}

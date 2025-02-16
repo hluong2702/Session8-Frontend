@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container table{
+    border: 1px solid grey;
+    width: 1000px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.container thead{
+    text-align: center;
+}
+
+.container tbody{
+    text-align: center;
+}
+
+.container tfoot{
+    text-align: center;
+}
+.container thead td{
+    padding: 50px;
+}
+
+.container .paragraph2{
+    margin-top: 20px;
+    font-size: 30px;
+    color: #242931;
+}
+.container img{
+    margin-bottom: 20px;
+}
+
+.container p{
+    margin-bottom: 30px;
+}
+
+.container .button{
+    width: 120px;
+    height: 40px;
+    background-color: white;
+
+}

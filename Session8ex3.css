@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container .caption{
+    font-size: 35px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.diven {
+    opacity: 50%;
+    border: 1px solid orange;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    width: 16%;
+}
+
+table{
+    width: 100%;
+}
+
+.container .content thead{
+    text-align: center;
+}
+
+.container .content .body .paragraph{
+    margin-left: 22%;
+    margin-bottom: 25px;
+
+}
+
+.container .content .button{
+    margin-left: 22%;
+    background-color: white;
+    color: #F89190;
+    border: 2px solid #F89190;
+    border-radius: 10%;
+    width: 100px;
+    height: 50px;
+}
+
+.container .content .body .title{
+    margin-left: 19%;
+    padding: 20px;
+    font-size: 20px;
+    color: #4B5155;
+}

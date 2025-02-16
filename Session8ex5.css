@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    background-color: #FBFBFB;
+    width: 50%;
+    text-align: center;
+
+}
+
+.container .header{
+    text-align: center;
+}
+
+.container .paragraph1{
+    font-size: 20px;
+    color: grey;
+}
+
+.container .paragraph2{
+    color: grey;
+}
+
+.container .body .download{
+    color: white;
+    background-color: #4696E5;
+    border: 1px solid #4696E5;
+    border-radius: 5%;
+    width: 100px;
+    height: 30px;
+}
+.container .body .learnMore{
+    width: 100px;
+    height: 30px;
+}
+
+.container .body{
+    padding: 20px;
+}
+.diven {
+    opacity: 50%;
+    border: 1px solid grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width:15%;
+    margin-left: 320px;
+    
+}
+
+.container .footer{
+    background-color: #F7F7F7;
+    width: 754px;
+    height: 200px;
+    margin-top: 40px;
+}
+
+.container .footer .icon{
+    padding: 40px;
+    font-size: 50px;
+}
